@@ -1,7 +1,7 @@
 module.exports = {
   // Your site URL
-  url: 'https://username.github.io',
+  url: 'https://yunks128.github.io',
   // Repository name
-  baseUrl: '/repository-name/',
+  baseUrl: '/hysds-docusaurus/',
   // ... other config
 }
